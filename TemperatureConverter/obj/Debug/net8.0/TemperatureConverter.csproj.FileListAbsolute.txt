@@ -1,0 +1,15 @@
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.exe
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.deps.json
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.dll
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\bin\Debug\net8.0\TemperatureConverter.pdb
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.sourcelink.json
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.dll
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\refint\TemperatureConverter.dll
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.pdb
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\TemperatureConverter.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\jordan\projects\temperature-converter\TemperatureConverter\TemperatureConverter\obj\Debug\net8.0\ref\TemperatureConverter.dll
