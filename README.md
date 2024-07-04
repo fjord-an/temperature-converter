@@ -1,6 +1,8 @@
-navigate console/terminal to TemperatureConverter/ where program.cs is
-cd path/to/program.cs
+My first C# program. Converts C to F and vice versa in an intuative and efficient manner.
 
-type in terminal:
+Executables are in TemperatureConverter/bin/Debug/net8.0/
 
-dotnet run
+TemperatureConverter.exe for windows
+
+or run the executable script in Bash by navigating to the folder in the terminal and typing:
+./TemperatureConverter
